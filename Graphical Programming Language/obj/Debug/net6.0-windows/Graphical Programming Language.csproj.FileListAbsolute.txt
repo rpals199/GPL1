@@ -1,0 +1,16 @@
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\bin\Debug\net6.0-windows\Graphical Programming Language.exe
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\bin\Debug\net6.0-windows\Graphical Programming Language.deps.json
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\bin\Debug\net6.0-windows\Graphical Programming Language.runtimeconfig.json
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\bin\Debug\net6.0-windows\Graphical Programming Language.dll
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\bin\Debug\net6.0-windows\Graphical Programming Language.pdb
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical_Programming_Language.Form1.resources
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.csproj.GenerateResource.cache
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.AssemblyInfoInputs.cache
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.AssemblyInfo.cs
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.dll
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\refint\Graphical Programming Language.dll
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.pdb
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\Graphical Programming Language.genruntimeconfig.cache
+C:\Users\ASUS\Project CODE\Graphical Programming Language\Graphical Programming Language\obj\Debug\net6.0-windows\ref\Graphical Programming Language.dll
